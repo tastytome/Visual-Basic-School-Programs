@@ -1,0 +1,13 @@
+D:\Grade 11\Software Development\Programs\2. Data Structure Arrays\2. Data Structure Arrays\bin\Debug\netcoreapp3.1\2. Data Structure Arrays.exe
+D:\Grade 11\Software Development\Programs\2. Data Structure Arrays\2. Data Structure Arrays\bin\Debug\netcoreapp3.1\2. Data Structure Arrays.deps.json
+D:\Grade 11\Software Development\Programs\2. Data Structure Arrays\2. Data Structure Arrays\bin\Debug\netcoreapp3.1\2. Data Structure Arrays.runtimeconfig.json
+D:\Grade 11\Software Development\Programs\2. Data Structure Arrays\2. Data Structure Arrays\bin\Debug\netcoreapp3.1\2. Data Structure Arrays.runtimeconfig.dev.json
+D:\Grade 11\Software Development\Programs\2. Data Structure Arrays\2. Data Structure Arrays\bin\Debug\netcoreapp3.1\2. Data Structure Arrays.dll
+D:\Grade 11\Software Development\Programs\2. Data Structure Arrays\2. Data Structure Arrays\bin\Debug\netcoreapp3.1\2. Data Structure Arrays.pdb
+D:\Grade 11\Software Development\Programs\2. Data Structure Arrays\2. Data Structure Arrays\obj\Debug\netcoreapp3.1\2. Data Structure Arrays.vbprojAssemblyReference.cache
+D:\Grade 11\Software Development\Programs\2. Data Structure Arrays\2. Data Structure Arrays\obj\Debug\netcoreapp3.1\2. Data Structure Arrays.AssemblyInfoInputs.cache
+D:\Grade 11\Software Development\Programs\2. Data Structure Arrays\2. Data Structure Arrays\obj\Debug\netcoreapp3.1\2. Data Structure Arrays.AssemblyInfo.vb
+D:\Grade 11\Software Development\Programs\2. Data Structure Arrays\2. Data Structure Arrays\obj\Debug\netcoreapp3.1\2. Data Structure Arrays.vbproj.CoreCompileInputs.cache
+D:\Grade 11\Software Development\Programs\2. Data Structure Arrays\2. Data Structure Arrays\obj\Debug\netcoreapp3.1\2. Data Structure Arrays.dll
+D:\Grade 11\Software Development\Programs\2. Data Structure Arrays\2. Data Structure Arrays\obj\Debug\netcoreapp3.1\2. Data Structure Arrays.pdb
+D:\Grade 11\Software Development\Programs\2. Data Structure Arrays\2. Data Structure Arrays\obj\Debug\netcoreapp3.1\2. Data Structure Arrays.genruntimeconfig.cache

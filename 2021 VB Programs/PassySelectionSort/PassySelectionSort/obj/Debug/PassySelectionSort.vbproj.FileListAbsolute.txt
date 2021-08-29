@@ -1,0 +1,46 @@
+C:\Users\02161730\AppData\Local\Temporary Projects\PassySelectionSort\bin\Debug\PassySelectionSort.exe.config
+C:\Users\02161730\AppData\Local\Temporary Projects\PassySelectionSort\bin\Debug\PassySelectionSort.exe
+C:\Users\02161730\AppData\Local\Temporary Projects\PassySelectionSort\bin\Debug\PassySelectionSort.pdb
+C:\Users\02161730\AppData\Local\Temporary Projects\PassySelectionSort\bin\Debug\PassySelectionSort.xml
+C:\Users\02161730\AppData\Local\Temporary Projects\PassySelectionSort\obj\Debug\PassySelectionSort.Form1.resources
+C:\Users\02161730\AppData\Local\Temporary Projects\PassySelectionSort\obj\Debug\PassySelectionSort.Resources.resources
+C:\Users\02161730\AppData\Local\Temporary Projects\PassySelectionSort\obj\Debug\PassySelectionSort.vbproj.GenerateResource.Cache
+C:\Users\02161730\AppData\Local\Temporary Projects\PassySelectionSort\obj\Debug\PassySelectionSort.exe
+C:\Users\02161730\AppData\Local\Temporary Projects\PassySelectionSort\obj\Debug\PassySelectionSort.xml
+C:\Users\02161730\AppData\Local\Temporary Projects\PassySelectionSort\obj\Debug\PassySelectionSort.pdb
+C:\Users\02161730\Documents\Visual Studio 2012\Projects\PassySelectionSort\PassySelectionSort\bin\Debug\PassySelectionSort.exe.config
+C:\Users\02161730\Documents\Visual Studio 2012\Projects\PassySelectionSort\PassySelectionSort\obj\Debug\PassySelectionSort.exe
+C:\Users\02161730\Documents\Visual Studio 2012\Projects\PassySelectionSort\PassySelectionSort\obj\Debug\PassySelectionSort.xml
+C:\Users\02161730\Documents\Visual Studio 2012\Projects\PassySelectionSort\PassySelectionSort\obj\Debug\PassySelectionSort.pdb
+C:\Users\02161730\Documents\Visual Studio 2012\Projects\PassySelectionSort\PassySelectionSort\bin\Debug\PassySelectionSort.exe
+C:\Users\02161730\Documents\Visual Studio 2012\Projects\PassySelectionSort\PassySelectionSort\bin\Debug\PassySelectionSort.pdb
+C:\Users\02161730\Documents\Visual Studio 2012\Projects\PassySelectionSort\PassySelectionSort\bin\Debug\PassySelectionSort.xml
+C:\Users\02161730\Documents\Visual Studio 2012\Projects\PassySelectionSort\PassySelectionSort\obj\Debug\PassySelectionSort.Form1.resources
+C:\Users\02161730\Documents\Visual Studio 2012\Projects\PassySelectionSort\PassySelectionSort\obj\Debug\PassySelectionSort.Resources.resources
+C:\Users\02161730\Documents\Visual Studio 2012\Projects\PassySelectionSort\PassySelectionSort\obj\Debug\PassySelectionSort.vbproj.GenerateResource.Cache
+C:\Users\02161730\Documents\Visual Studio 2012\Projects\PassySelectionSort\PassySelectionSort\obj\Debug\PassySelectionSort.vbprojAssemblyReference.cache
+C:\Users\02161730\Documents\Visual Studio 2012\Projects\PassySelectionSort\PassySelectionSort\obj\Debug\PassySelectionSort.vbproj.CoreCompileInputs.cache
+F:\Programming\School Programs\PassySelectionSort\PassySelectionSort\bin\Debug\PassySelectionSort.exe.config
+F:\Programming\School Programs\PassySelectionSort\PassySelectionSort\bin\Debug\PassySelectionSort.exe
+F:\Programming\School Programs\PassySelectionSort\PassySelectionSort\bin\Debug\PassySelectionSort.pdb
+F:\Programming\School Programs\PassySelectionSort\PassySelectionSort\bin\Debug\PassySelectionSort.xml
+F:\Programming\School Programs\PassySelectionSort\PassySelectionSort\obj\Debug\PassySelectionSort.vbproj.AssemblyReference.cache
+F:\Programming\School Programs\PassySelectionSort\PassySelectionSort\obj\Debug\PassySelectionSort.Form1.resources
+F:\Programming\School Programs\PassySelectionSort\PassySelectionSort\obj\Debug\PassySelectionSort.Resources.resources
+F:\Programming\School Programs\PassySelectionSort\PassySelectionSort\obj\Debug\PassySelectionSort.vbproj.GenerateResource.cache
+F:\Programming\School Programs\PassySelectionSort\PassySelectionSort\obj\Debug\PassySelectionSort.vbproj.CoreCompileInputs.cache
+F:\Programming\School Programs\PassySelectionSort\PassySelectionSort\obj\Debug\PassySelectionSort.exe
+F:\Programming\School Programs\PassySelectionSort\PassySelectionSort\obj\Debug\PassySelectionSort.xml
+F:\Programming\School Programs\PassySelectionSort\PassySelectionSort\obj\Debug\PassySelectionSort.pdb
+F:\Programming\School Programs\Stonks App\PassySelectionSort\PassySelectionSort\bin\Debug\PassySelectionSort.exe.config
+F:\Programming\School Programs\Stonks App\PassySelectionSort\PassySelectionSort\bin\Debug\PassySelectionSort.exe
+F:\Programming\School Programs\Stonks App\PassySelectionSort\PassySelectionSort\bin\Debug\PassySelectionSort.pdb
+F:\Programming\School Programs\Stonks App\PassySelectionSort\PassySelectionSort\bin\Debug\PassySelectionSort.xml
+F:\Programming\School Programs\Stonks App\PassySelectionSort\PassySelectionSort\obj\Debug\PassySelectionSort.vbproj.AssemblyReference.cache
+F:\Programming\School Programs\Stonks App\PassySelectionSort\PassySelectionSort\obj\Debug\PassySelectionSort.Form1.resources
+F:\Programming\School Programs\Stonks App\PassySelectionSort\PassySelectionSort\obj\Debug\PassySelectionSort.Resources.resources
+F:\Programming\School Programs\Stonks App\PassySelectionSort\PassySelectionSort\obj\Debug\PassySelectionSort.vbproj.GenerateResource.cache
+F:\Programming\School Programs\Stonks App\PassySelectionSort\PassySelectionSort\obj\Debug\PassySelectionSort.vbproj.CoreCompileInputs.cache
+F:\Programming\School Programs\Stonks App\PassySelectionSort\PassySelectionSort\obj\Debug\PassySelectionSort.exe
+F:\Programming\School Programs\Stonks App\PassySelectionSort\PassySelectionSort\obj\Debug\PassySelectionSort.xml
+F:\Programming\School Programs\Stonks App\PassySelectionSort\PassySelectionSort\obj\Debug\PassySelectionSort.pdb

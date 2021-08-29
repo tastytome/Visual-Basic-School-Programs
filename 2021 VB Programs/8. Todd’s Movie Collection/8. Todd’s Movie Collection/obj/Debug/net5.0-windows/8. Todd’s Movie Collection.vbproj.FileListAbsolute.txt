@@ -1,0 +1,19 @@
+D:\Grade 11\Software Development\Programs\8. Todd’s Movie Collection\8. Todd’s Movie Collection\obj\Debug\net5.0-windows\8. Todd’s Movie Collection.vbprojAssemblyReference.cache
+D:\Grade 11\Software Development\Programs\8. Todd’s Movie Collection\8. Todd’s Movie Collection\obj\Debug\net5.0-windows\_8._Todd_s_Movie_Collection.Form1.resources
+D:\Grade 11\Software Development\Programs\8. Todd’s Movie Collection\8. Todd’s Movie Collection\obj\Debug\net5.0-windows\_8._Todd_s_Movie_Collection.Form2.resources
+D:\Grade 11\Software Development\Programs\8. Todd’s Movie Collection\8. Todd’s Movie Collection\obj\Debug\net5.0-windows\8. Todd’s Movie Collection.vbproj.GenerateResource.cache
+D:\Grade 11\Software Development\Programs\8. Todd’s Movie Collection\8. Todd’s Movie Collection\obj\Debug\net5.0-windows\8. Todd’s Movie Collection.GeneratedMSBuildEditorConfig.editorconfig
+D:\Grade 11\Software Development\Programs\8. Todd’s Movie Collection\8. Todd’s Movie Collection\obj\Debug\net5.0-windows\8. Todd’s Movie Collection.AssemblyInfoInputs.cache
+D:\Grade 11\Software Development\Programs\8. Todd’s Movie Collection\8. Todd’s Movie Collection\obj\Debug\net5.0-windows\8. Todd’s Movie Collection.AssemblyInfo.vb
+D:\Grade 11\Software Development\Programs\8. Todd’s Movie Collection\8. Todd’s Movie Collection\obj\Debug\net5.0-windows\8. Todd’s Movie Collection.vbproj.CoreCompileInputs.cache
+D:\Grade 11\Software Development\Programs\8. Todd’s Movie Collection\8. Todd’s Movie Collection\bin\Debug\net5.0-windows\8. Todd’s Movie Collection.exe
+D:\Grade 11\Software Development\Programs\8. Todd’s Movie Collection\8. Todd’s Movie Collection\bin\Debug\net5.0-windows\8. Todd’s Movie Collection.deps.json
+D:\Grade 11\Software Development\Programs\8. Todd’s Movie Collection\8. Todd’s Movie Collection\bin\Debug\net5.0-windows\8. Todd’s Movie Collection.runtimeconfig.json
+D:\Grade 11\Software Development\Programs\8. Todd’s Movie Collection\8. Todd’s Movie Collection\bin\Debug\net5.0-windows\8. Todd’s Movie Collection.runtimeconfig.dev.json
+D:\Grade 11\Software Development\Programs\8. Todd’s Movie Collection\8. Todd’s Movie Collection\bin\Debug\net5.0-windows\8. Todd’s Movie Collection.dll
+D:\Grade 11\Software Development\Programs\8. Todd’s Movie Collection\8. Todd’s Movie Collection\bin\Debug\net5.0-windows\ref\8. Todd’s Movie Collection.dll
+D:\Grade 11\Software Development\Programs\8. Todd’s Movie Collection\8. Todd’s Movie Collection\bin\Debug\net5.0-windows\8. Todd’s Movie Collection.pdb
+D:\Grade 11\Software Development\Programs\8. Todd’s Movie Collection\8. Todd’s Movie Collection\obj\Debug\net5.0-windows\8. Todd’s Movie Collection.dll
+D:\Grade 11\Software Development\Programs\8. Todd’s Movie Collection\8. Todd’s Movie Collection\obj\Debug\net5.0-windows\ref\8. Todd’s Movie Collection.dll
+D:\Grade 11\Software Development\Programs\8. Todd’s Movie Collection\8. Todd’s Movie Collection\obj\Debug\net5.0-windows\8. Todd’s Movie Collection.pdb
+D:\Grade 11\Software Development\Programs\8. Todd’s Movie Collection\8. Todd’s Movie Collection\obj\Debug\net5.0-windows\8. Todd’s Movie Collection.genruntimeconfig.cache

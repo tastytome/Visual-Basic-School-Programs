@@ -1,0 +1,12 @@
+D:\Grade 10\Applied Computing\Visual Basic Semester 2\Programs\TKR Industries Stock Checker\TKR Industries Stock Checker\bin\Debug\TKR Industries Stock Checker.exe.config
+D:\Grade 10\Applied Computing\Visual Basic Semester 2\Programs\TKR Industries Stock Checker\TKR Industries Stock Checker\bin\Debug\TKR Industries Stock Checker.exe
+D:\Grade 10\Applied Computing\Visual Basic Semester 2\Programs\TKR Industries Stock Checker\TKR Industries Stock Checker\bin\Debug\TKR Industries Stock Checker.pdb
+D:\Grade 10\Applied Computing\Visual Basic Semester 2\Programs\TKR Industries Stock Checker\TKR Industries Stock Checker\bin\Debug\TKR Industries Stock Checker.xml
+D:\Grade 10\Applied Computing\Visual Basic Semester 2\Programs\TKR Industries Stock Checker\TKR Industries Stock Checker\obj\Debug\TKR Industries Stock Checker.vbprojAssemblyReference.cache
+D:\Grade 10\Applied Computing\Visual Basic Semester 2\Programs\TKR Industries Stock Checker\TKR Industries Stock Checker\obj\Debug\TKR_Industries_Stock_Checker.Form1.resources
+D:\Grade 10\Applied Computing\Visual Basic Semester 2\Programs\TKR Industries Stock Checker\TKR Industries Stock Checker\obj\Debug\TKR_Industries_Stock_Checker.Resources.resources
+D:\Grade 10\Applied Computing\Visual Basic Semester 2\Programs\TKR Industries Stock Checker\TKR Industries Stock Checker\obj\Debug\TKR Industries Stock Checker.vbproj.GenerateResource.cache
+D:\Grade 10\Applied Computing\Visual Basic Semester 2\Programs\TKR Industries Stock Checker\TKR Industries Stock Checker\obj\Debug\TKR Industries Stock Checker.vbproj.CoreCompileInputs.cache
+D:\Grade 10\Applied Computing\Visual Basic Semester 2\Programs\TKR Industries Stock Checker\TKR Industries Stock Checker\obj\Debug\TKR Industries Stock Checker.exe
+D:\Grade 10\Applied Computing\Visual Basic Semester 2\Programs\TKR Industries Stock Checker\TKR Industries Stock Checker\obj\Debug\TKR Industries Stock Checker.xml
+D:\Grade 10\Applied Computing\Visual Basic Semester 2\Programs\TKR Industries Stock Checker\TKR Industries Stock Checker\obj\Debug\TKR Industries Stock Checker.pdb

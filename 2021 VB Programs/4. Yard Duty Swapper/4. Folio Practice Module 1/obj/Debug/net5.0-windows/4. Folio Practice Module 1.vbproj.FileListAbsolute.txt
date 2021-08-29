@@ -1,0 +1,18 @@
+D:\Grade 11\Software Development\Programs\4. Folio Practice Module 1\4. Folio Practice Module 1\bin\Debug\net5.0-windows\4. Folio Practice Module 1.exe
+D:\Grade 11\Software Development\Programs\4. Folio Practice Module 1\4. Folio Practice Module 1\bin\Debug\net5.0-windows\4. Folio Practice Module 1.deps.json
+D:\Grade 11\Software Development\Programs\4. Folio Practice Module 1\4. Folio Practice Module 1\bin\Debug\net5.0-windows\4. Folio Practice Module 1.runtimeconfig.json
+D:\Grade 11\Software Development\Programs\4. Folio Practice Module 1\4. Folio Practice Module 1\bin\Debug\net5.0-windows\4. Folio Practice Module 1.runtimeconfig.dev.json
+D:\Grade 11\Software Development\Programs\4. Folio Practice Module 1\4. Folio Practice Module 1\bin\Debug\net5.0-windows\4. Folio Practice Module 1.dll
+D:\Grade 11\Software Development\Programs\4. Folio Practice Module 1\4. Folio Practice Module 1\bin\Debug\net5.0-windows\ref\4. Folio Practice Module 1.dll
+D:\Grade 11\Software Development\Programs\4. Folio Practice Module 1\4. Folio Practice Module 1\bin\Debug\net5.0-windows\4. Folio Practice Module 1.pdb
+D:\Grade 11\Software Development\Programs\4. Folio Practice Module 1\4. Folio Practice Module 1\obj\Debug\net5.0-windows\4. Folio Practice Module 1.vbprojAssemblyReference.cache
+D:\Grade 11\Software Development\Programs\4. Folio Practice Module 1\4. Folio Practice Module 1\obj\Debug\net5.0-windows\_4._Folio_Practice_Module_1.Form1.resources
+D:\Grade 11\Software Development\Programs\4. Folio Practice Module 1\4. Folio Practice Module 1\obj\Debug\net5.0-windows\4. Folio Practice Module 1.vbproj.GenerateResource.cache
+D:\Grade 11\Software Development\Programs\4. Folio Practice Module 1\4. Folio Practice Module 1\obj\Debug\net5.0-windows\4. Folio Practice Module 1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Grade 11\Software Development\Programs\4. Folio Practice Module 1\4. Folio Practice Module 1\obj\Debug\net5.0-windows\4. Folio Practice Module 1.AssemblyInfoInputs.cache
+D:\Grade 11\Software Development\Programs\4. Folio Practice Module 1\4. Folio Practice Module 1\obj\Debug\net5.0-windows\4. Folio Practice Module 1.AssemblyInfo.vb
+D:\Grade 11\Software Development\Programs\4. Folio Practice Module 1\4. Folio Practice Module 1\obj\Debug\net5.0-windows\4. Folio Practice Module 1.vbproj.CoreCompileInputs.cache
+D:\Grade 11\Software Development\Programs\4. Folio Practice Module 1\4. Folio Practice Module 1\obj\Debug\net5.0-windows\4. Folio Practice Module 1.dll
+D:\Grade 11\Software Development\Programs\4. Folio Practice Module 1\4. Folio Practice Module 1\obj\Debug\net5.0-windows\ref\4. Folio Practice Module 1.dll
+D:\Grade 11\Software Development\Programs\4. Folio Practice Module 1\4. Folio Practice Module 1\obj\Debug\net5.0-windows\4. Folio Practice Module 1.pdb
+D:\Grade 11\Software Development\Programs\4. Folio Practice Module 1\4. Folio Practice Module 1\obj\Debug\net5.0-windows\4. Folio Practice Module 1.genruntimeconfig.cache

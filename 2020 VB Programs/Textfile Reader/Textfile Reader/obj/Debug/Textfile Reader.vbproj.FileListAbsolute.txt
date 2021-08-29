@@ -1,0 +1,12 @@
+D:\Grade 10\Applied Computing\Visual Basic\Programs\Textfile Reader\Textfile Reader\bin\Debug\Textfile Reader.exe.config
+D:\Grade 10\Applied Computing\Visual Basic\Programs\Textfile Reader\Textfile Reader\bin\Debug\Textfile Reader.exe
+D:\Grade 10\Applied Computing\Visual Basic\Programs\Textfile Reader\Textfile Reader\bin\Debug\Textfile Reader.pdb
+D:\Grade 10\Applied Computing\Visual Basic\Programs\Textfile Reader\Textfile Reader\bin\Debug\Textfile Reader.xml
+D:\Grade 10\Applied Computing\Visual Basic\Programs\Textfile Reader\Textfile Reader\obj\Debug\Textfile Reader.vbprojAssemblyReference.cache
+D:\Grade 10\Applied Computing\Visual Basic\Programs\Textfile Reader\Textfile Reader\obj\Debug\Textfile_Reader.Form1.resources
+D:\Grade 10\Applied Computing\Visual Basic\Programs\Textfile Reader\Textfile Reader\obj\Debug\Textfile_Reader.Resources.resources
+D:\Grade 10\Applied Computing\Visual Basic\Programs\Textfile Reader\Textfile Reader\obj\Debug\Textfile Reader.vbproj.GenerateResource.cache
+D:\Grade 10\Applied Computing\Visual Basic\Programs\Textfile Reader\Textfile Reader\obj\Debug\Textfile Reader.vbproj.CoreCompileInputs.cache
+D:\Grade 10\Applied Computing\Visual Basic\Programs\Textfile Reader\Textfile Reader\obj\Debug\Textfile Reader.exe
+D:\Grade 10\Applied Computing\Visual Basic\Programs\Textfile Reader\Textfile Reader\obj\Debug\Textfile Reader.xml
+D:\Grade 10\Applied Computing\Visual Basic\Programs\Textfile Reader\Textfile Reader\obj\Debug\Textfile Reader.pdb

@@ -1,0 +1,12 @@
+C:\Users\thoma\source\repos\Christmas Calculator\Christmas Calculator\bin\Debug\Christmas Calculator.exe.config
+C:\Users\thoma\source\repos\Christmas Calculator\Christmas Calculator\bin\Debug\Christmas Calculator.exe
+C:\Users\thoma\source\repos\Christmas Calculator\Christmas Calculator\bin\Debug\Christmas Calculator.pdb
+C:\Users\thoma\source\repos\Christmas Calculator\Christmas Calculator\bin\Debug\Christmas Calculator.xml
+C:\Users\thoma\source\repos\Christmas Calculator\Christmas Calculator\obj\Debug\Christmas Calculator.vbprojAssemblyReference.cache
+C:\Users\thoma\source\repos\Christmas Calculator\Christmas Calculator\obj\Debug\Christmas_Calculator.Form1.resources
+C:\Users\thoma\source\repos\Christmas Calculator\Christmas Calculator\obj\Debug\Christmas_Calculator.Resources.resources
+C:\Users\thoma\source\repos\Christmas Calculator\Christmas Calculator\obj\Debug\Christmas Calculator.vbproj.GenerateResource.cache
+C:\Users\thoma\source\repos\Christmas Calculator\Christmas Calculator\obj\Debug\Christmas Calculator.vbproj.CoreCompileInputs.cache
+C:\Users\thoma\source\repos\Christmas Calculator\Christmas Calculator\obj\Debug\Christmas Calculator.exe
+C:\Users\thoma\source\repos\Christmas Calculator\Christmas Calculator\obj\Debug\Christmas Calculator.xml
+C:\Users\thoma\source\repos\Christmas Calculator\Christmas Calculator\obj\Debug\Christmas Calculator.pdb

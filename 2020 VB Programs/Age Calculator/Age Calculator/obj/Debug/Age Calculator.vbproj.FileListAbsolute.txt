@@ -1,0 +1,12 @@
+C:\Users\thoma\source\repos\Age Calculator\Age Calculator\bin\Debug\Age Calculator.exe.config
+C:\Users\thoma\source\repos\Age Calculator\Age Calculator\bin\Debug\Age Calculator.exe
+C:\Users\thoma\source\repos\Age Calculator\Age Calculator\bin\Debug\Age Calculator.pdb
+C:\Users\thoma\source\repos\Age Calculator\Age Calculator\bin\Debug\Age Calculator.xml
+C:\Users\thoma\source\repos\Age Calculator\Age Calculator\obj\Debug\Age Calculator.vbprojAssemblyReference.cache
+C:\Users\thoma\source\repos\Age Calculator\Age Calculator\obj\Debug\Age_Calculator.Form1.resources
+C:\Users\thoma\source\repos\Age Calculator\Age Calculator\obj\Debug\Age_Calculator.Resources.resources
+C:\Users\thoma\source\repos\Age Calculator\Age Calculator\obj\Debug\Age Calculator.vbproj.GenerateResource.cache
+C:\Users\thoma\source\repos\Age Calculator\Age Calculator\obj\Debug\Age Calculator.vbproj.CoreCompileInputs.cache
+C:\Users\thoma\source\repos\Age Calculator\Age Calculator\obj\Debug\Age Calculator.exe
+C:\Users\thoma\source\repos\Age Calculator\Age Calculator\obj\Debug\Age Calculator.xml
+C:\Users\thoma\source\repos\Age Calculator\Age Calculator\obj\Debug\Age Calculator.pdb

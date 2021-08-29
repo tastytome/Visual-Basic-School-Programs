@@ -1,0 +1,18 @@
+D:\Grade 11\Software Development\Programs\12. XML CDs\12. XML CDs\obj\Debug\net5.0-windows\12. XML CDs.vbprojAssemblyReference.cache
+D:\Grade 11\Software Development\Programs\12. XML CDs\12. XML CDs\obj\Debug\net5.0-windows\_12._XML_CDs.Form1.resources
+D:\Grade 11\Software Development\Programs\12. XML CDs\12. XML CDs\obj\Debug\net5.0-windows\12. XML CDs.vbproj.GenerateResource.cache
+D:\Grade 11\Software Development\Programs\12. XML CDs\12. XML CDs\obj\Debug\net5.0-windows\12. XML CDs.GeneratedMSBuildEditorConfig.editorconfig
+D:\Grade 11\Software Development\Programs\12. XML CDs\12. XML CDs\obj\Debug\net5.0-windows\12. XML CDs.AssemblyInfoInputs.cache
+D:\Grade 11\Software Development\Programs\12. XML CDs\12. XML CDs\obj\Debug\net5.0-windows\12. XML CDs.AssemblyInfo.vb
+D:\Grade 11\Software Development\Programs\12. XML CDs\12. XML CDs\obj\Debug\net5.0-windows\12. XML CDs.vbproj.CoreCompileInputs.cache
+D:\Grade 11\Software Development\Programs\12. XML CDs\12. XML CDs\bin\Debug\net5.0-windows\12. XML CDs.exe
+D:\Grade 11\Software Development\Programs\12. XML CDs\12. XML CDs\bin\Debug\net5.0-windows\12. XML CDs.deps.json
+D:\Grade 11\Software Development\Programs\12. XML CDs\12. XML CDs\bin\Debug\net5.0-windows\12. XML CDs.runtimeconfig.json
+D:\Grade 11\Software Development\Programs\12. XML CDs\12. XML CDs\bin\Debug\net5.0-windows\12. XML CDs.runtimeconfig.dev.json
+D:\Grade 11\Software Development\Programs\12. XML CDs\12. XML CDs\bin\Debug\net5.0-windows\12. XML CDs.dll
+D:\Grade 11\Software Development\Programs\12. XML CDs\12. XML CDs\bin\Debug\net5.0-windows\ref\12. XML CDs.dll
+D:\Grade 11\Software Development\Programs\12. XML CDs\12. XML CDs\bin\Debug\net5.0-windows\12. XML CDs.pdb
+D:\Grade 11\Software Development\Programs\12. XML CDs\12. XML CDs\obj\Debug\net5.0-windows\12. XML CDs.dll
+D:\Grade 11\Software Development\Programs\12. XML CDs\12. XML CDs\obj\Debug\net5.0-windows\ref\12. XML CDs.dll
+D:\Grade 11\Software Development\Programs\12. XML CDs\12. XML CDs\obj\Debug\net5.0-windows\12. XML CDs.pdb
+D:\Grade 11\Software Development\Programs\12. XML CDs\12. XML CDs\obj\Debug\net5.0-windows\12. XML CDs.genruntimeconfig.cache

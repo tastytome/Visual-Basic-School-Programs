@@ -1,0 +1,34 @@
+<Records>
+  <Record>
+    <CD>
+      <TITLE>T</TITLE>
+      <ARTIST>T</ARTIST>
+      <COUNTRY>T</COUNTRY>
+      <COMPANY>T</COMPANY>
+      <PRICE>5</PRICE>
+      <YEAR>6</YEAR>
+    </CD>
+  </Record>
+  <CD>
+    <TITLE>T</TITLE>
+    <ARTIST>T</ARTIST>
+    <COUNTRY>T</COUNTRY>
+    <COMPANY>T</COMPANY>
+    <PRICE>5</PRICE>
+    <YEAR>6</YEAR>
+  </CD>
+  <CD>
+    <TITLE>TA</TITLE>
+    <ARTIST>T</ARTIST>
+    <COUNTRY>T</COUNTRY>
+    <COMPANY>T</COMPANY>
+    <PRICE>5</PRICE>
+    <YEAR>6</YEAR>
+  </CD>   <CD>
+    <TITLE>TAA</TITLE>
+    <ARTIST>T</ARTIST>
+    <COUNTRY>T</COUNTRY>
+    <COMPANY>T</COMPANY>
+    <PRICE>100</PRICE>
+    <YEAR>6</YEAR>
+  </CD> </Records>

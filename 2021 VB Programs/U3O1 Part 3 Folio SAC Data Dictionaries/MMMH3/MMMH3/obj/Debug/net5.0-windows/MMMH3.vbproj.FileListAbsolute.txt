@@ -1,0 +1,36 @@
+C:\Users\TRA0028\Downloads\U3O1 Part III Folio SAC\MMMH3\MMMH3\bin\Debug\net5.0-windows\MMMH3.exe
+C:\Users\TRA0028\Downloads\U3O1 Part III Folio SAC\MMMH3\MMMH3\bin\Debug\net5.0-windows\MMMH3.deps.json
+C:\Users\TRA0028\Downloads\U3O1 Part III Folio SAC\MMMH3\MMMH3\bin\Debug\net5.0-windows\MMMH3.runtimeconfig.json
+C:\Users\TRA0028\Downloads\U3O1 Part III Folio SAC\MMMH3\MMMH3\bin\Debug\net5.0-windows\MMMH3.runtimeconfig.dev.json
+C:\Users\TRA0028\Downloads\U3O1 Part III Folio SAC\MMMH3\MMMH3\bin\Debug\net5.0-windows\MMMH3.dll
+C:\Users\TRA0028\Downloads\U3O1 Part III Folio SAC\MMMH3\MMMH3\bin\Debug\net5.0-windows\ref\MMMH3.dll
+C:\Users\TRA0028\Downloads\U3O1 Part III Folio SAC\MMMH3\MMMH3\bin\Debug\net5.0-windows\MMMH3.pdb
+C:\Users\TRA0028\Downloads\U3O1 Part III Folio SAC\MMMH3\MMMH3\obj\Debug\net5.0-windows\MMMH3.vbprojAssemblyReference.cache
+C:\Users\TRA0028\Downloads\U3O1 Part III Folio SAC\MMMH3\MMMH3\obj\Debug\net5.0-windows\MMMH3.Form1.resources
+C:\Users\TRA0028\Downloads\U3O1 Part III Folio SAC\MMMH3\MMMH3\obj\Debug\net5.0-windows\MMMH3.vbproj.GenerateResource.cache
+C:\Users\TRA0028\Downloads\U3O1 Part III Folio SAC\MMMH3\MMMH3\obj\Debug\net5.0-windows\MMMH3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TRA0028\Downloads\U3O1 Part III Folio SAC\MMMH3\MMMH3\obj\Debug\net5.0-windows\MMMH3.AssemblyInfoInputs.cache
+C:\Users\TRA0028\Downloads\U3O1 Part III Folio SAC\MMMH3\MMMH3\obj\Debug\net5.0-windows\MMMH3.AssemblyInfo.vb
+C:\Users\TRA0028\Downloads\U3O1 Part III Folio SAC\MMMH3\MMMH3\obj\Debug\net5.0-windows\MMMH3.vbproj.CoreCompileInputs.cache
+C:\Users\TRA0028\Downloads\U3O1 Part III Folio SAC\MMMH3\MMMH3\obj\Debug\net5.0-windows\MMMH3.dll
+C:\Users\TRA0028\Downloads\U3O1 Part III Folio SAC\MMMH3\MMMH3\obj\Debug\net5.0-windows\ref\MMMH3.dll
+C:\Users\TRA0028\Downloads\U3O1 Part III Folio SAC\MMMH3\MMMH3\obj\Debug\net5.0-windows\MMMH3.pdb
+C:\Users\TRA0028\Downloads\U3O1 Part III Folio SAC\MMMH3\MMMH3\obj\Debug\net5.0-windows\MMMH3.genruntimeconfig.cache
+D:\Grade 11\Software Development\Programs\SAC Projects\U3O1 Part III Folio SAC\MMMH3\MMMH3\bin\Debug\net5.0-windows\MMMH3.exe
+D:\Grade 11\Software Development\Programs\SAC Projects\U3O1 Part III Folio SAC\MMMH3\MMMH3\bin\Debug\net5.0-windows\MMMH3.deps.json
+D:\Grade 11\Software Development\Programs\SAC Projects\U3O1 Part III Folio SAC\MMMH3\MMMH3\bin\Debug\net5.0-windows\MMMH3.runtimeconfig.json
+D:\Grade 11\Software Development\Programs\SAC Projects\U3O1 Part III Folio SAC\MMMH3\MMMH3\bin\Debug\net5.0-windows\MMMH3.runtimeconfig.dev.json
+D:\Grade 11\Software Development\Programs\SAC Projects\U3O1 Part III Folio SAC\MMMH3\MMMH3\bin\Debug\net5.0-windows\MMMH3.dll
+D:\Grade 11\Software Development\Programs\SAC Projects\U3O1 Part III Folio SAC\MMMH3\MMMH3\bin\Debug\net5.0-windows\ref\MMMH3.dll
+D:\Grade 11\Software Development\Programs\SAC Projects\U3O1 Part III Folio SAC\MMMH3\MMMH3\bin\Debug\net5.0-windows\MMMH3.pdb
+D:\Grade 11\Software Development\Programs\SAC Projects\U3O1 Part III Folio SAC\MMMH3\MMMH3\obj\Debug\net5.0-windows\MMMH3.vbprojAssemblyReference.cache
+D:\Grade 11\Software Development\Programs\SAC Projects\U3O1 Part III Folio SAC\MMMH3\MMMH3\obj\Debug\net5.0-windows\MMMH3.Form1.resources
+D:\Grade 11\Software Development\Programs\SAC Projects\U3O1 Part III Folio SAC\MMMH3\MMMH3\obj\Debug\net5.0-windows\MMMH3.vbproj.GenerateResource.cache
+D:\Grade 11\Software Development\Programs\SAC Projects\U3O1 Part III Folio SAC\MMMH3\MMMH3\obj\Debug\net5.0-windows\MMMH3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Grade 11\Software Development\Programs\SAC Projects\U3O1 Part III Folio SAC\MMMH3\MMMH3\obj\Debug\net5.0-windows\MMMH3.AssemblyInfoInputs.cache
+D:\Grade 11\Software Development\Programs\SAC Projects\U3O1 Part III Folio SAC\MMMH3\MMMH3\obj\Debug\net5.0-windows\MMMH3.AssemblyInfo.vb
+D:\Grade 11\Software Development\Programs\SAC Projects\U3O1 Part III Folio SAC\MMMH3\MMMH3\obj\Debug\net5.0-windows\MMMH3.vbproj.CoreCompileInputs.cache
+D:\Grade 11\Software Development\Programs\SAC Projects\U3O1 Part III Folio SAC\MMMH3\MMMH3\obj\Debug\net5.0-windows\MMMH3.dll
+D:\Grade 11\Software Development\Programs\SAC Projects\U3O1 Part III Folio SAC\MMMH3\MMMH3\obj\Debug\net5.0-windows\ref\MMMH3.dll
+D:\Grade 11\Software Development\Programs\SAC Projects\U3O1 Part III Folio SAC\MMMH3\MMMH3\obj\Debug\net5.0-windows\MMMH3.pdb
+D:\Grade 11\Software Development\Programs\SAC Projects\U3O1 Part III Folio SAC\MMMH3\MMMH3\obj\Debug\net5.0-windows\MMMH3.genruntimeconfig.cache

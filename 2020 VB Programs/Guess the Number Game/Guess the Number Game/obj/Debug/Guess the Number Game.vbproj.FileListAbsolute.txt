@@ -1,0 +1,12 @@
+D:\Grade 10\Applied Computing\Visual Basic\Programs\Guess the Number Game\Guess the Number Game\bin\Debug\Guess the Number Game.exe.config
+D:\Grade 10\Applied Computing\Visual Basic\Programs\Guess the Number Game\Guess the Number Game\bin\Debug\Guess the Number Game.exe
+D:\Grade 10\Applied Computing\Visual Basic\Programs\Guess the Number Game\Guess the Number Game\bin\Debug\Guess the Number Game.pdb
+D:\Grade 10\Applied Computing\Visual Basic\Programs\Guess the Number Game\Guess the Number Game\bin\Debug\Guess the Number Game.xml
+D:\Grade 10\Applied Computing\Visual Basic\Programs\Guess the Number Game\Guess the Number Game\obj\Debug\Guess the Number Game.vbprojAssemblyReference.cache
+D:\Grade 10\Applied Computing\Visual Basic\Programs\Guess the Number Game\Guess the Number Game\obj\Debug\Guess_the_Number_Game.Form1.resources
+D:\Grade 10\Applied Computing\Visual Basic\Programs\Guess the Number Game\Guess the Number Game\obj\Debug\Guess_the_Number_Game.Resources.resources
+D:\Grade 10\Applied Computing\Visual Basic\Programs\Guess the Number Game\Guess the Number Game\obj\Debug\Guess the Number Game.vbproj.GenerateResource.cache
+D:\Grade 10\Applied Computing\Visual Basic\Programs\Guess the Number Game\Guess the Number Game\obj\Debug\Guess the Number Game.vbproj.CoreCompileInputs.cache
+D:\Grade 10\Applied Computing\Visual Basic\Programs\Guess the Number Game\Guess the Number Game\obj\Debug\Guess the Number Game.exe
+D:\Grade 10\Applied Computing\Visual Basic\Programs\Guess the Number Game\Guess the Number Game\obj\Debug\Guess the Number Game.xml
+D:\Grade 10\Applied Computing\Visual Basic\Programs\Guess the Number Game\Guess the Number Game\obj\Debug\Guess the Number Game.pdb

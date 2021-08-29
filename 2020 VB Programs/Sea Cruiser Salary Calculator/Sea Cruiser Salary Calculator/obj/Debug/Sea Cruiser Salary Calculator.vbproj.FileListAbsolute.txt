@@ -1,0 +1,12 @@
+D:\Grade 10\Applied Computing\Visual Basic\Programs\Sea Cruiser Salary Calculator\Sea Cruiser Salary Calculator\bin\Debug\Sea Cruiser Salary Calculator.exe.config
+D:\Grade 10\Applied Computing\Visual Basic\Programs\Sea Cruiser Salary Calculator\Sea Cruiser Salary Calculator\bin\Debug\Sea Cruiser Salary Calculator.exe
+D:\Grade 10\Applied Computing\Visual Basic\Programs\Sea Cruiser Salary Calculator\Sea Cruiser Salary Calculator\bin\Debug\Sea Cruiser Salary Calculator.pdb
+D:\Grade 10\Applied Computing\Visual Basic\Programs\Sea Cruiser Salary Calculator\Sea Cruiser Salary Calculator\bin\Debug\Sea Cruiser Salary Calculator.xml
+D:\Grade 10\Applied Computing\Visual Basic\Programs\Sea Cruiser Salary Calculator\Sea Cruiser Salary Calculator\obj\Debug\Sea Cruiser Salary Calculator.vbprojAssemblyReference.cache
+D:\Grade 10\Applied Computing\Visual Basic\Programs\Sea Cruiser Salary Calculator\Sea Cruiser Salary Calculator\obj\Debug\Sea_Cruiser_Salary_Calculator.Form1.resources
+D:\Grade 10\Applied Computing\Visual Basic\Programs\Sea Cruiser Salary Calculator\Sea Cruiser Salary Calculator\obj\Debug\Sea_Cruiser_Salary_Calculator.Resources.resources
+D:\Grade 10\Applied Computing\Visual Basic\Programs\Sea Cruiser Salary Calculator\Sea Cruiser Salary Calculator\obj\Debug\Sea Cruiser Salary Calculator.vbproj.GenerateResource.cache
+D:\Grade 10\Applied Computing\Visual Basic\Programs\Sea Cruiser Salary Calculator\Sea Cruiser Salary Calculator\obj\Debug\Sea Cruiser Salary Calculator.vbproj.CoreCompileInputs.cache
+D:\Grade 10\Applied Computing\Visual Basic\Programs\Sea Cruiser Salary Calculator\Sea Cruiser Salary Calculator\obj\Debug\Sea Cruiser Salary Calculator.exe
+D:\Grade 10\Applied Computing\Visual Basic\Programs\Sea Cruiser Salary Calculator\Sea Cruiser Salary Calculator\obj\Debug\Sea Cruiser Salary Calculator.xml
+D:\Grade 10\Applied Computing\Visual Basic\Programs\Sea Cruiser Salary Calculator\Sea Cruiser Salary Calculator\obj\Debug\Sea Cruiser Salary Calculator.pdb

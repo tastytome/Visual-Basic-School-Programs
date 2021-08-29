@@ -1,0 +1,18 @@
+D:\Grade 11\Software Development\Programs\5. Mr Lamb's Toast\5. Mr Lamb's Toast\bin\Debug\net5.0-windows\5. Mr Lamb's Toast.exe
+D:\Grade 11\Software Development\Programs\5. Mr Lamb's Toast\5. Mr Lamb's Toast\bin\Debug\net5.0-windows\5. Mr Lamb's Toast.deps.json
+D:\Grade 11\Software Development\Programs\5. Mr Lamb's Toast\5. Mr Lamb's Toast\bin\Debug\net5.0-windows\5. Mr Lamb's Toast.runtimeconfig.json
+D:\Grade 11\Software Development\Programs\5. Mr Lamb's Toast\5. Mr Lamb's Toast\bin\Debug\net5.0-windows\5. Mr Lamb's Toast.runtimeconfig.dev.json
+D:\Grade 11\Software Development\Programs\5. Mr Lamb's Toast\5. Mr Lamb's Toast\bin\Debug\net5.0-windows\5. Mr Lamb's Toast.dll
+D:\Grade 11\Software Development\Programs\5. Mr Lamb's Toast\5. Mr Lamb's Toast\bin\Debug\net5.0-windows\ref\5. Mr Lamb's Toast.dll
+D:\Grade 11\Software Development\Programs\5. Mr Lamb's Toast\5. Mr Lamb's Toast\bin\Debug\net5.0-windows\5. Mr Lamb's Toast.pdb
+D:\Grade 11\Software Development\Programs\5. Mr Lamb's Toast\5. Mr Lamb's Toast\obj\Debug\net5.0-windows\5. Mr Lamb's Toast.vbprojAssemblyReference.cache
+D:\Grade 11\Software Development\Programs\5. Mr Lamb's Toast\5. Mr Lamb's Toast\obj\Debug\net5.0-windows\_5._Mr_Lamb_s_Toast.Form1.resources
+D:\Grade 11\Software Development\Programs\5. Mr Lamb's Toast\5. Mr Lamb's Toast\obj\Debug\net5.0-windows\5. Mr Lamb's Toast.vbproj.GenerateResource.cache
+D:\Grade 11\Software Development\Programs\5. Mr Lamb's Toast\5. Mr Lamb's Toast\obj\Debug\net5.0-windows\5. Mr Lamb's Toast.GeneratedMSBuildEditorConfig.editorconfig
+D:\Grade 11\Software Development\Programs\5. Mr Lamb's Toast\5. Mr Lamb's Toast\obj\Debug\net5.0-windows\5. Mr Lamb's Toast.AssemblyInfoInputs.cache
+D:\Grade 11\Software Development\Programs\5. Mr Lamb's Toast\5. Mr Lamb's Toast\obj\Debug\net5.0-windows\5. Mr Lamb's Toast.AssemblyInfo.vb
+D:\Grade 11\Software Development\Programs\5. Mr Lamb's Toast\5. Mr Lamb's Toast\obj\Debug\net5.0-windows\5. Mr Lamb's Toast.vbproj.CoreCompileInputs.cache
+D:\Grade 11\Software Development\Programs\5. Mr Lamb's Toast\5. Mr Lamb's Toast\obj\Debug\net5.0-windows\5. Mr Lamb's Toast.dll
+D:\Grade 11\Software Development\Programs\5. Mr Lamb's Toast\5. Mr Lamb's Toast\obj\Debug\net5.0-windows\ref\5. Mr Lamb's Toast.dll
+D:\Grade 11\Software Development\Programs\5. Mr Lamb's Toast\5. Mr Lamb's Toast\obj\Debug\net5.0-windows\5. Mr Lamb's Toast.pdb
+D:\Grade 11\Software Development\Programs\5. Mr Lamb's Toast\5. Mr Lamb's Toast\obj\Debug\net5.0-windows\5. Mr Lamb's Toast.genruntimeconfig.cache

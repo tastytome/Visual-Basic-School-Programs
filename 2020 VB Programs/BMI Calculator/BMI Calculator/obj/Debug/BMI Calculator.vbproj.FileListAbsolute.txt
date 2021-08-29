@@ -1,0 +1,12 @@
+D:\Grade 10\Applied Computing\Visual Basic\Programs\BMI Calculator\BMI Calculator\bin\Debug\BMI Calculator.exe.config
+D:\Grade 10\Applied Computing\Visual Basic\Programs\BMI Calculator\BMI Calculator\bin\Debug\BMI Calculator.exe
+D:\Grade 10\Applied Computing\Visual Basic\Programs\BMI Calculator\BMI Calculator\bin\Debug\BMI Calculator.pdb
+D:\Grade 10\Applied Computing\Visual Basic\Programs\BMI Calculator\BMI Calculator\bin\Debug\BMI Calculator.xml
+D:\Grade 10\Applied Computing\Visual Basic\Programs\BMI Calculator\BMI Calculator\obj\Debug\BMI Calculator.vbprojAssemblyReference.cache
+D:\Grade 10\Applied Computing\Visual Basic\Programs\BMI Calculator\BMI Calculator\obj\Debug\BMI_Calculator.Form1.resources
+D:\Grade 10\Applied Computing\Visual Basic\Programs\BMI Calculator\BMI Calculator\obj\Debug\BMI_Calculator.Resources.resources
+D:\Grade 10\Applied Computing\Visual Basic\Programs\BMI Calculator\BMI Calculator\obj\Debug\BMI Calculator.vbproj.GenerateResource.cache
+D:\Grade 10\Applied Computing\Visual Basic\Programs\BMI Calculator\BMI Calculator\obj\Debug\BMI Calculator.vbproj.CoreCompileInputs.cache
+D:\Grade 10\Applied Computing\Visual Basic\Programs\BMI Calculator\BMI Calculator\obj\Debug\BMI Calculator.exe
+D:\Grade 10\Applied Computing\Visual Basic\Programs\BMI Calculator\BMI Calculator\obj\Debug\BMI Calculator.xml
+D:\Grade 10\Applied Computing\Visual Basic\Programs\BMI Calculator\BMI Calculator\obj\Debug\BMI Calculator.pdb

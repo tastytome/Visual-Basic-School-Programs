@@ -1,0 +1,18 @@
+D:\Grade 11\Software Development\Programs\9. Functions Example\9. Functions Example\bin\Debug\net5.0-windows\9. Functions Example.exe
+D:\Grade 11\Software Development\Programs\9. Functions Example\9. Functions Example\bin\Debug\net5.0-windows\9. Functions Example.deps.json
+D:\Grade 11\Software Development\Programs\9. Functions Example\9. Functions Example\bin\Debug\net5.0-windows\9. Functions Example.runtimeconfig.json
+D:\Grade 11\Software Development\Programs\9. Functions Example\9. Functions Example\bin\Debug\net5.0-windows\9. Functions Example.runtimeconfig.dev.json
+D:\Grade 11\Software Development\Programs\9. Functions Example\9. Functions Example\bin\Debug\net5.0-windows\9. Functions Example.dll
+D:\Grade 11\Software Development\Programs\9. Functions Example\9. Functions Example\bin\Debug\net5.0-windows\ref\9. Functions Example.dll
+D:\Grade 11\Software Development\Programs\9. Functions Example\9. Functions Example\bin\Debug\net5.0-windows\9. Functions Example.pdb
+D:\Grade 11\Software Development\Programs\9. Functions Example\9. Functions Example\obj\Debug\net5.0-windows\9. Functions Example.vbprojAssemblyReference.cache
+D:\Grade 11\Software Development\Programs\9. Functions Example\9. Functions Example\obj\Debug\net5.0-windows\_9._Functions_Example.Form1.resources
+D:\Grade 11\Software Development\Programs\9. Functions Example\9. Functions Example\obj\Debug\net5.0-windows\9. Functions Example.vbproj.GenerateResource.cache
+D:\Grade 11\Software Development\Programs\9. Functions Example\9. Functions Example\obj\Debug\net5.0-windows\9. Functions Example.GeneratedMSBuildEditorConfig.editorconfig
+D:\Grade 11\Software Development\Programs\9. Functions Example\9. Functions Example\obj\Debug\net5.0-windows\9. Functions Example.AssemblyInfoInputs.cache
+D:\Grade 11\Software Development\Programs\9. Functions Example\9. Functions Example\obj\Debug\net5.0-windows\9. Functions Example.AssemblyInfo.vb
+D:\Grade 11\Software Development\Programs\9. Functions Example\9. Functions Example\obj\Debug\net5.0-windows\9. Functions Example.vbproj.CoreCompileInputs.cache
+D:\Grade 11\Software Development\Programs\9. Functions Example\9. Functions Example\obj\Debug\net5.0-windows\9. Functions Example.dll
+D:\Grade 11\Software Development\Programs\9. Functions Example\9. Functions Example\obj\Debug\net5.0-windows\ref\9. Functions Example.dll
+D:\Grade 11\Software Development\Programs\9. Functions Example\9. Functions Example\obj\Debug\net5.0-windows\9. Functions Example.pdb
+D:\Grade 11\Software Development\Programs\9. Functions Example\9. Functions Example\obj\Debug\net5.0-windows\9. Functions Example.genruntimeconfig.cache

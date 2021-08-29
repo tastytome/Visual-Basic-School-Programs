@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "11. Associative Array Dictionary", "11. Associative Array Dictionary\11. Associative Array Dictionary.vbproj", "{BAFB51EC-E386-4C63-B8E4-EA2655FC1614}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BAFB51EC-E386-4C63-B8E4-EA2655FC1614}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAFB51EC-E386-4C63-B8E4-EA2655FC1614}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAFB51EC-E386-4C63-B8E4-EA2655FC1614}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAFB51EC-E386-4C63-B8E4-EA2655FC1614}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EB04F8F0-4048-424B-A9BC-981B44E16AC3}
+	EndGlobalSection
+EndGlobal

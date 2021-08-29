@@ -1,0 +1,12 @@
+C:\Users\thoma\source\repos\Pizza Ordering App\Pizza Ordering App\obj\Debug\Pizza Ordering App.vbprojAssemblyReference.cache
+C:\Users\thoma\source\repos\Pizza Ordering App\Pizza Ordering App\obj\Debug\Pizza_Ordering_App.Form1.resources
+C:\Users\thoma\source\repos\Pizza Ordering App\Pizza Ordering App\obj\Debug\Pizza_Ordering_App.Resources.resources
+C:\Users\thoma\source\repos\Pizza Ordering App\Pizza Ordering App\obj\Debug\Pizza Ordering App.vbproj.GenerateResource.cache
+C:\Users\thoma\source\repos\Pizza Ordering App\Pizza Ordering App\obj\Debug\Pizza Ordering App.vbproj.CoreCompileInputs.cache
+C:\Users\thoma\source\repos\Pizza Ordering App\Pizza Ordering App\bin\Debug\Pizza Ordering App.exe.config
+C:\Users\thoma\source\repos\Pizza Ordering App\Pizza Ordering App\bin\Debug\Pizza Ordering App.exe
+C:\Users\thoma\source\repos\Pizza Ordering App\Pizza Ordering App\bin\Debug\Pizza Ordering App.pdb
+C:\Users\thoma\source\repos\Pizza Ordering App\Pizza Ordering App\bin\Debug\Pizza Ordering App.xml
+C:\Users\thoma\source\repos\Pizza Ordering App\Pizza Ordering App\obj\Debug\Pizza Ordering App.exe
+C:\Users\thoma\source\repos\Pizza Ordering App\Pizza Ordering App\obj\Debug\Pizza Ordering App.xml
+C:\Users\thoma\source\repos\Pizza Ordering App\Pizza Ordering App\obj\Debug\Pizza Ordering App.pdb

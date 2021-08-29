@@ -1,0 +1,40 @@
+D:\Grade 11\Software Development\Programs\U3O1 Part 2 Folio SAC\U3O1 Part 2 Folio SAC\obj\Debug\net5.0-windows\U3O1 Part 2 Folio SAC.vbprojAssemblyReference.cache
+D:\Grade 11\Software Development\Programs\U3O1 Part 2 Folio SAC\U3O1 Part 2 Folio SAC\obj\Debug\net5.0-windows\U3O1_Part_2_Folio_SAC.FrmAddBooking.resources
+D:\Grade 11\Software Development\Programs\U3O1 Part 2 Folio SAC\U3O1 Part 2 Folio SAC\obj\Debug\net5.0-windows\U3O1_Part_2_Folio_SAC.FrmReports.resources
+D:\Grade 11\Software Development\Programs\U3O1 Part 2 Folio SAC\U3O1 Part 2 Folio SAC\obj\Debug\net5.0-windows\U3O1_Part_2_Folio_SAC.FrmMainMenu.resources
+D:\Grade 11\Software Development\Programs\U3O1 Part 2 Folio SAC\U3O1 Part 2 Folio SAC\obj\Debug\net5.0-windows\U3O1 Part 2 Folio SAC.vbproj.GenerateResource.cache
+D:\Grade 11\Software Development\Programs\U3O1 Part 2 Folio SAC\U3O1 Part 2 Folio SAC\obj\Debug\net5.0-windows\U3O1 Part 2 Folio SAC.GeneratedMSBuildEditorConfig.editorconfig
+D:\Grade 11\Software Development\Programs\U3O1 Part 2 Folio SAC\U3O1 Part 2 Folio SAC\obj\Debug\net5.0-windows\U3O1 Part 2 Folio SAC.AssemblyInfoInputs.cache
+D:\Grade 11\Software Development\Programs\U3O1 Part 2 Folio SAC\U3O1 Part 2 Folio SAC\obj\Debug\net5.0-windows\U3O1 Part 2 Folio SAC.AssemblyInfo.vb
+D:\Grade 11\Software Development\Programs\U3O1 Part 2 Folio SAC\U3O1 Part 2 Folio SAC\obj\Debug\net5.0-windows\U3O1 Part 2 Folio SAC.vbproj.CoreCompileInputs.cache
+D:\Grade 11\Software Development\Programs\U3O1 Part 2 Folio SAC\U3O1 Part 2 Folio SAC\bin\Debug\net5.0-windows\U3O1 Part 2 Folio SAC.exe
+D:\Grade 11\Software Development\Programs\U3O1 Part 2 Folio SAC\U3O1 Part 2 Folio SAC\bin\Debug\net5.0-windows\U3O1 Part 2 Folio SAC.deps.json
+D:\Grade 11\Software Development\Programs\U3O1 Part 2 Folio SAC\U3O1 Part 2 Folio SAC\bin\Debug\net5.0-windows\U3O1 Part 2 Folio SAC.runtimeconfig.json
+D:\Grade 11\Software Development\Programs\U3O1 Part 2 Folio SAC\U3O1 Part 2 Folio SAC\bin\Debug\net5.0-windows\U3O1 Part 2 Folio SAC.runtimeconfig.dev.json
+D:\Grade 11\Software Development\Programs\U3O1 Part 2 Folio SAC\U3O1 Part 2 Folio SAC\bin\Debug\net5.0-windows\U3O1 Part 2 Folio SAC.dll
+D:\Grade 11\Software Development\Programs\U3O1 Part 2 Folio SAC\U3O1 Part 2 Folio SAC\bin\Debug\net5.0-windows\ref\U3O1 Part 2 Folio SAC.dll
+D:\Grade 11\Software Development\Programs\U3O1 Part 2 Folio SAC\U3O1 Part 2 Folio SAC\bin\Debug\net5.0-windows\U3O1 Part 2 Folio SAC.pdb
+D:\Grade 11\Software Development\Programs\U3O1 Part 2 Folio SAC\U3O1 Part 2 Folio SAC\obj\Debug\net5.0-windows\U3O1 Part 2 Folio SAC.dll
+D:\Grade 11\Software Development\Programs\U3O1 Part 2 Folio SAC\U3O1 Part 2 Folio SAC\obj\Debug\net5.0-windows\ref\U3O1 Part 2 Folio SAC.dll
+D:\Grade 11\Software Development\Programs\U3O1 Part 2 Folio SAC\U3O1 Part 2 Folio SAC\obj\Debug\net5.0-windows\U3O1 Part 2 Folio SAC.pdb
+D:\Grade 11\Software Development\Programs\U3O1 Part 2 Folio SAC\U3O1 Part 2 Folio SAC\obj\Debug\net5.0-windows\U3O1 Part 2 Folio SAC.genruntimeconfig.cache
+D:\Grade 11\Software Development\Programs\SAC Projects\U3O1 Part 2 Folio SAC\U3O1 Part 2 Folio SAC\bin\Debug\net5.0-windows\U3O1 Part 2 Folio SAC.exe
+D:\Grade 11\Software Development\Programs\SAC Projects\U3O1 Part 2 Folio SAC\U3O1 Part 2 Folio SAC\bin\Debug\net5.0-windows\U3O1 Part 2 Folio SAC.deps.json
+D:\Grade 11\Software Development\Programs\SAC Projects\U3O1 Part 2 Folio SAC\U3O1 Part 2 Folio SAC\bin\Debug\net5.0-windows\U3O1 Part 2 Folio SAC.runtimeconfig.json
+D:\Grade 11\Software Development\Programs\SAC Projects\U3O1 Part 2 Folio SAC\U3O1 Part 2 Folio SAC\bin\Debug\net5.0-windows\U3O1 Part 2 Folio SAC.runtimeconfig.dev.json
+D:\Grade 11\Software Development\Programs\SAC Projects\U3O1 Part 2 Folio SAC\U3O1 Part 2 Folio SAC\bin\Debug\net5.0-windows\U3O1 Part 2 Folio SAC.dll
+D:\Grade 11\Software Development\Programs\SAC Projects\U3O1 Part 2 Folio SAC\U3O1 Part 2 Folio SAC\bin\Debug\net5.0-windows\ref\U3O1 Part 2 Folio SAC.dll
+D:\Grade 11\Software Development\Programs\SAC Projects\U3O1 Part 2 Folio SAC\U3O1 Part 2 Folio SAC\bin\Debug\net5.0-windows\U3O1 Part 2 Folio SAC.pdb
+D:\Grade 11\Software Development\Programs\SAC Projects\U3O1 Part 2 Folio SAC\U3O1 Part 2 Folio SAC\obj\Debug\net5.0-windows\U3O1 Part 2 Folio SAC.vbprojAssemblyReference.cache
+D:\Grade 11\Software Development\Programs\SAC Projects\U3O1 Part 2 Folio SAC\U3O1 Part 2 Folio SAC\obj\Debug\net5.0-windows\U3O1_Part_2_Folio_SAC.FrmAddBooking.resources
+D:\Grade 11\Software Development\Programs\SAC Projects\U3O1 Part 2 Folio SAC\U3O1 Part 2 Folio SAC\obj\Debug\net5.0-windows\U3O1_Part_2_Folio_SAC.FrmReports.resources
+D:\Grade 11\Software Development\Programs\SAC Projects\U3O1 Part 2 Folio SAC\U3O1 Part 2 Folio SAC\obj\Debug\net5.0-windows\U3O1_Part_2_Folio_SAC.FrmMainMenu.resources
+D:\Grade 11\Software Development\Programs\SAC Projects\U3O1 Part 2 Folio SAC\U3O1 Part 2 Folio SAC\obj\Debug\net5.0-windows\U3O1 Part 2 Folio SAC.vbproj.GenerateResource.cache
+D:\Grade 11\Software Development\Programs\SAC Projects\U3O1 Part 2 Folio SAC\U3O1 Part 2 Folio SAC\obj\Debug\net5.0-windows\U3O1 Part 2 Folio SAC.GeneratedMSBuildEditorConfig.editorconfig
+D:\Grade 11\Software Development\Programs\SAC Projects\U3O1 Part 2 Folio SAC\U3O1 Part 2 Folio SAC\obj\Debug\net5.0-windows\U3O1 Part 2 Folio SAC.AssemblyInfoInputs.cache
+D:\Grade 11\Software Development\Programs\SAC Projects\U3O1 Part 2 Folio SAC\U3O1 Part 2 Folio SAC\obj\Debug\net5.0-windows\U3O1 Part 2 Folio SAC.AssemblyInfo.vb
+D:\Grade 11\Software Development\Programs\SAC Projects\U3O1 Part 2 Folio SAC\U3O1 Part 2 Folio SAC\obj\Debug\net5.0-windows\U3O1 Part 2 Folio SAC.vbproj.CoreCompileInputs.cache
+D:\Grade 11\Software Development\Programs\SAC Projects\U3O1 Part 2 Folio SAC\U3O1 Part 2 Folio SAC\obj\Debug\net5.0-windows\U3O1 Part 2 Folio SAC.dll
+D:\Grade 11\Software Development\Programs\SAC Projects\U3O1 Part 2 Folio SAC\U3O1 Part 2 Folio SAC\obj\Debug\net5.0-windows\ref\U3O1 Part 2 Folio SAC.dll
+D:\Grade 11\Software Development\Programs\SAC Projects\U3O1 Part 2 Folio SAC\U3O1 Part 2 Folio SAC\obj\Debug\net5.0-windows\U3O1 Part 2 Folio SAC.pdb
+D:\Grade 11\Software Development\Programs\SAC Projects\U3O1 Part 2 Folio SAC\U3O1 Part 2 Folio SAC\obj\Debug\net5.0-windows\U3O1 Part 2 Folio SAC.genruntimeconfig.cache

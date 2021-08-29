@@ -1,0 +1,18 @@
+D:\Grade 11\Software Development\Programs\3. Dictionary Display\3. Dictionary Display\bin\Debug\net5.0-windows\3. Dictionary Display.exe
+D:\Grade 11\Software Development\Programs\3. Dictionary Display\3. Dictionary Display\bin\Debug\net5.0-windows\3. Dictionary Display.deps.json
+D:\Grade 11\Software Development\Programs\3. Dictionary Display\3. Dictionary Display\bin\Debug\net5.0-windows\3. Dictionary Display.runtimeconfig.json
+D:\Grade 11\Software Development\Programs\3. Dictionary Display\3. Dictionary Display\bin\Debug\net5.0-windows\3. Dictionary Display.runtimeconfig.dev.json
+D:\Grade 11\Software Development\Programs\3. Dictionary Display\3. Dictionary Display\bin\Debug\net5.0-windows\3. Dictionary Display.dll
+D:\Grade 11\Software Development\Programs\3. Dictionary Display\3. Dictionary Display\bin\Debug\net5.0-windows\ref\3. Dictionary Display.dll
+D:\Grade 11\Software Development\Programs\3. Dictionary Display\3. Dictionary Display\bin\Debug\net5.0-windows\3. Dictionary Display.pdb
+D:\Grade 11\Software Development\Programs\3. Dictionary Display\3. Dictionary Display\obj\Debug\net5.0-windows\3. Dictionary Display.vbprojAssemblyReference.cache
+D:\Grade 11\Software Development\Programs\3. Dictionary Display\3. Dictionary Display\obj\Debug\net5.0-windows\_3._Dictionary_Display.Form1.resources
+D:\Grade 11\Software Development\Programs\3. Dictionary Display\3. Dictionary Display\obj\Debug\net5.0-windows\3. Dictionary Display.vbproj.GenerateResource.cache
+D:\Grade 11\Software Development\Programs\3. Dictionary Display\3. Dictionary Display\obj\Debug\net5.0-windows\3. Dictionary Display.GeneratedMSBuildEditorConfig.editorconfig
+D:\Grade 11\Software Development\Programs\3. Dictionary Display\3. Dictionary Display\obj\Debug\net5.0-windows\3. Dictionary Display.AssemblyInfoInputs.cache
+D:\Grade 11\Software Development\Programs\3. Dictionary Display\3. Dictionary Display\obj\Debug\net5.0-windows\3. Dictionary Display.AssemblyInfo.vb
+D:\Grade 11\Software Development\Programs\3. Dictionary Display\3. Dictionary Display\obj\Debug\net5.0-windows\3. Dictionary Display.vbproj.CoreCompileInputs.cache
+D:\Grade 11\Software Development\Programs\3. Dictionary Display\3. Dictionary Display\obj\Debug\net5.0-windows\3. Dictionary Display.dll
+D:\Grade 11\Software Development\Programs\3. Dictionary Display\3. Dictionary Display\obj\Debug\net5.0-windows\ref\3. Dictionary Display.dll
+D:\Grade 11\Software Development\Programs\3. Dictionary Display\3. Dictionary Display\obj\Debug\net5.0-windows\3. Dictionary Display.pdb
+D:\Grade 11\Software Development\Programs\3. Dictionary Display\3. Dictionary Display\obj\Debug\net5.0-windows\3. Dictionary Display.genruntimeconfig.cache

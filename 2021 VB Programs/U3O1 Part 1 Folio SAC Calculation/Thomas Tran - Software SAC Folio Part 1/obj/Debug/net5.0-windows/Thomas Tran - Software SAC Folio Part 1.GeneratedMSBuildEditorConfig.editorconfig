@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net5.0-windows
+build_property.TargetPlatformMinVersion = 7.0
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.PublishSingleFile = 
+build_property.IncludeAllContentForSelfExtract = 
+build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
+build_property.RootNamespace = Thomas_Tran___Software_SAC_Folio_Part_1
+build_property.ProjectDir = F:\Programming\School Programs\2021 Visual Basic Semester 1\U3O1 Part 1 Folio SAC - Calculation Outputs\Thomas Tran - Software SAC Folio Part 1\

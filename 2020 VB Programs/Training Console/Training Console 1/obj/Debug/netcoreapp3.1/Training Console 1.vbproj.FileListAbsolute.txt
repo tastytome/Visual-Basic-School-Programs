@@ -1,0 +1,13 @@
+D:\Grade 10\Applied Computing\Visual Basic\Programs\Training Console 1\Training Console 1\obj\Debug\netcoreapp3.1\Training Console 1.vbprojAssemblyReference.cache
+D:\Grade 10\Applied Computing\Visual Basic\Programs\Training Console 1\Training Console 1\obj\Debug\netcoreapp3.1\Training Console 1.vbproj.CoreCompileInputs.cache
+D:\Grade 10\Applied Computing\Visual Basic\Programs\Training Console 1\Training Console 1\obj\Debug\netcoreapp3.1\Training Console 1.AssemblyInfoInputs.cache
+D:\Grade 10\Applied Computing\Visual Basic\Programs\Training Console 1\Training Console 1\obj\Debug\netcoreapp3.1\Training Console 1.AssemblyInfo.vb
+D:\Grade 10\Applied Computing\Visual Basic\Programs\Training Console 1\Training Console 1\bin\Debug\netcoreapp3.1\Training Console 1.exe
+D:\Grade 10\Applied Computing\Visual Basic\Programs\Training Console 1\Training Console 1\bin\Debug\netcoreapp3.1\Training Console 1.deps.json
+D:\Grade 10\Applied Computing\Visual Basic\Programs\Training Console 1\Training Console 1\bin\Debug\netcoreapp3.1\Training Console 1.runtimeconfig.json
+D:\Grade 10\Applied Computing\Visual Basic\Programs\Training Console 1\Training Console 1\bin\Debug\netcoreapp3.1\Training Console 1.runtimeconfig.dev.json
+D:\Grade 10\Applied Computing\Visual Basic\Programs\Training Console 1\Training Console 1\bin\Debug\netcoreapp3.1\Training Console 1.dll
+D:\Grade 10\Applied Computing\Visual Basic\Programs\Training Console 1\Training Console 1\bin\Debug\netcoreapp3.1\Training Console 1.pdb
+D:\Grade 10\Applied Computing\Visual Basic\Programs\Training Console 1\Training Console 1\obj\Debug\netcoreapp3.1\Training Console 1.dll
+D:\Grade 10\Applied Computing\Visual Basic\Programs\Training Console 1\Training Console 1\obj\Debug\netcoreapp3.1\Training Console 1.pdb
+D:\Grade 10\Applied Computing\Visual Basic\Programs\Training Console 1\Training Console 1\obj\Debug\netcoreapp3.1\Training Console 1.genruntimeconfig.cache

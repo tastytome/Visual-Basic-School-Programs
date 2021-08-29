@@ -1,0 +1,19 @@
+D:\Grade 11\Software Development\Programs\7. Textfile Example\7. Textfile Example\bin\Debug\net5.0-windows\7. Textfile Example.exe
+D:\Grade 11\Software Development\Programs\7. Textfile Example\7. Textfile Example\bin\Debug\net5.0-windows\7. Textfile Example.deps.json
+D:\Grade 11\Software Development\Programs\7. Textfile Example\7. Textfile Example\bin\Debug\net5.0-windows\7. Textfile Example.runtimeconfig.json
+D:\Grade 11\Software Development\Programs\7. Textfile Example\7. Textfile Example\bin\Debug\net5.0-windows\7. Textfile Example.runtimeconfig.dev.json
+D:\Grade 11\Software Development\Programs\7. Textfile Example\7. Textfile Example\bin\Debug\net5.0-windows\7. Textfile Example.dll
+D:\Grade 11\Software Development\Programs\7. Textfile Example\7. Textfile Example\bin\Debug\net5.0-windows\ref\7. Textfile Example.dll
+D:\Grade 11\Software Development\Programs\7. Textfile Example\7. Textfile Example\bin\Debug\net5.0-windows\7. Textfile Example.pdb
+D:\Grade 11\Software Development\Programs\7. Textfile Example\7. Textfile Example\obj\Debug\net5.0-windows\7. Textfile Example.vbprojAssemblyReference.cache
+D:\Grade 11\Software Development\Programs\7. Textfile Example\7. Textfile Example\obj\Debug\net5.0-windows\_7._Textfile_Example.Form1.resources
+D:\Grade 11\Software Development\Programs\7. Textfile Example\7. Textfile Example\obj\Debug\net5.0-windows\_7._Textfile_Example.Form2.resources
+D:\Grade 11\Software Development\Programs\7. Textfile Example\7. Textfile Example\obj\Debug\net5.0-windows\7. Textfile Example.vbproj.GenerateResource.cache
+D:\Grade 11\Software Development\Programs\7. Textfile Example\7. Textfile Example\obj\Debug\net5.0-windows\7. Textfile Example.GeneratedMSBuildEditorConfig.editorconfig
+D:\Grade 11\Software Development\Programs\7. Textfile Example\7. Textfile Example\obj\Debug\net5.0-windows\7. Textfile Example.AssemblyInfoInputs.cache
+D:\Grade 11\Software Development\Programs\7. Textfile Example\7. Textfile Example\obj\Debug\net5.0-windows\7. Textfile Example.AssemblyInfo.vb
+D:\Grade 11\Software Development\Programs\7. Textfile Example\7. Textfile Example\obj\Debug\net5.0-windows\7. Textfile Example.vbproj.CoreCompileInputs.cache
+D:\Grade 11\Software Development\Programs\7. Textfile Example\7. Textfile Example\obj\Debug\net5.0-windows\7. Textfile Example.dll
+D:\Grade 11\Software Development\Programs\7. Textfile Example\7. Textfile Example\obj\Debug\net5.0-windows\ref\7. Textfile Example.dll
+D:\Grade 11\Software Development\Programs\7. Textfile Example\7. Textfile Example\obj\Debug\net5.0-windows\7. Textfile Example.pdb
+D:\Grade 11\Software Development\Programs\7. Textfile Example\7. Textfile Example\obj\Debug\net5.0-windows\7. Textfile Example.genruntimeconfig.cache

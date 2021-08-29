@@ -1,0 +1,18 @@
+D:\Grade 11\Software Development\Programs\11. Associative Array Dictionary\11. Associative Array Dictionary\obj\Debug\net5.0-windows\11. Associative Array Dictionary.vbprojAssemblyReference.cache
+D:\Grade 11\Software Development\Programs\11. Associative Array Dictionary\11. Associative Array Dictionary\obj\Debug\net5.0-windows\_11._Associative_Array_Dictionary.Form1.resources
+D:\Grade 11\Software Development\Programs\11. Associative Array Dictionary\11. Associative Array Dictionary\obj\Debug\net5.0-windows\11. Associative Array Dictionary.vbproj.GenerateResource.cache
+D:\Grade 11\Software Development\Programs\11. Associative Array Dictionary\11. Associative Array Dictionary\obj\Debug\net5.0-windows\11. Associative Array Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Grade 11\Software Development\Programs\11. Associative Array Dictionary\11. Associative Array Dictionary\obj\Debug\net5.0-windows\11. Associative Array Dictionary.AssemblyInfoInputs.cache
+D:\Grade 11\Software Development\Programs\11. Associative Array Dictionary\11. Associative Array Dictionary\obj\Debug\net5.0-windows\11. Associative Array Dictionary.AssemblyInfo.vb
+D:\Grade 11\Software Development\Programs\11. Associative Array Dictionary\11. Associative Array Dictionary\obj\Debug\net5.0-windows\11. Associative Array Dictionary.vbproj.CoreCompileInputs.cache
+D:\Grade 11\Software Development\Programs\11. Associative Array Dictionary\11. Associative Array Dictionary\bin\Debug\net5.0-windows\11. Associative Array Dictionary.exe
+D:\Grade 11\Software Development\Programs\11. Associative Array Dictionary\11. Associative Array Dictionary\bin\Debug\net5.0-windows\11. Associative Array Dictionary.deps.json
+D:\Grade 11\Software Development\Programs\11. Associative Array Dictionary\11. Associative Array Dictionary\bin\Debug\net5.0-windows\11. Associative Array Dictionary.runtimeconfig.json
+D:\Grade 11\Software Development\Programs\11. Associative Array Dictionary\11. Associative Array Dictionary\bin\Debug\net5.0-windows\11. Associative Array Dictionary.runtimeconfig.dev.json
+D:\Grade 11\Software Development\Programs\11. Associative Array Dictionary\11. Associative Array Dictionary\bin\Debug\net5.0-windows\11. Associative Array Dictionary.dll
+D:\Grade 11\Software Development\Programs\11. Associative Array Dictionary\11. Associative Array Dictionary\bin\Debug\net5.0-windows\ref\11. Associative Array Dictionary.dll
+D:\Grade 11\Software Development\Programs\11. Associative Array Dictionary\11. Associative Array Dictionary\bin\Debug\net5.0-windows\11. Associative Array Dictionary.pdb
+D:\Grade 11\Software Development\Programs\11. Associative Array Dictionary\11. Associative Array Dictionary\obj\Debug\net5.0-windows\11. Associative Array Dictionary.dll
+D:\Grade 11\Software Development\Programs\11. Associative Array Dictionary\11. Associative Array Dictionary\obj\Debug\net5.0-windows\ref\11. Associative Array Dictionary.dll
+D:\Grade 11\Software Development\Programs\11. Associative Array Dictionary\11. Associative Array Dictionary\obj\Debug\net5.0-windows\11. Associative Array Dictionary.pdb
+D:\Grade 11\Software Development\Programs\11. Associative Array Dictionary\11. Associative Array Dictionary\obj\Debug\net5.0-windows\11. Associative Array Dictionary.genruntimeconfig.cache

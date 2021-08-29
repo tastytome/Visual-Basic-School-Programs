@@ -1,0 +1,12 @@
+D:\Grade 10\Applied Computing\Visual Basic\Programs\Sea Cruiser Cinema Calculator\Sea Cruiser Cinema Calculator\obj\Debug\Sea Cruiser Cinema Calculator.vbprojAssemblyReference.cache
+D:\Grade 10\Applied Computing\Visual Basic\Programs\Sea Cruiser Cinema Calculator\Sea Cruiser Cinema Calculator\obj\Debug\Sea_Cruiser_Cinema_Calculator.Form1.resources
+D:\Grade 10\Applied Computing\Visual Basic\Programs\Sea Cruiser Cinema Calculator\Sea Cruiser Cinema Calculator\obj\Debug\Sea_Cruiser_Cinema_Calculator.Resources.resources
+D:\Grade 10\Applied Computing\Visual Basic\Programs\Sea Cruiser Cinema Calculator\Sea Cruiser Cinema Calculator\obj\Debug\Sea Cruiser Cinema Calculator.vbproj.GenerateResource.cache
+D:\Grade 10\Applied Computing\Visual Basic\Programs\Sea Cruiser Cinema Calculator\Sea Cruiser Cinema Calculator\obj\Debug\Sea Cruiser Cinema Calculator.vbproj.CoreCompileInputs.cache
+D:\Grade 10\Applied Computing\Visual Basic\Programs\Sea Cruiser Cinema Calculator\Sea Cruiser Cinema Calculator\bin\Debug\Sea Cruiser Cinema Calculator.exe.config
+D:\Grade 10\Applied Computing\Visual Basic\Programs\Sea Cruiser Cinema Calculator\Sea Cruiser Cinema Calculator\bin\Debug\Sea Cruiser Cinema Calculator.exe
+D:\Grade 10\Applied Computing\Visual Basic\Programs\Sea Cruiser Cinema Calculator\Sea Cruiser Cinema Calculator\bin\Debug\Sea Cruiser Cinema Calculator.pdb
+D:\Grade 10\Applied Computing\Visual Basic\Programs\Sea Cruiser Cinema Calculator\Sea Cruiser Cinema Calculator\bin\Debug\Sea Cruiser Cinema Calculator.xml
+D:\Grade 10\Applied Computing\Visual Basic\Programs\Sea Cruiser Cinema Calculator\Sea Cruiser Cinema Calculator\obj\Debug\Sea Cruiser Cinema Calculator.exe
+D:\Grade 10\Applied Computing\Visual Basic\Programs\Sea Cruiser Cinema Calculator\Sea Cruiser Cinema Calculator\obj\Debug\Sea Cruiser Cinema Calculator.xml
+D:\Grade 10\Applied Computing\Visual Basic\Programs\Sea Cruiser Cinema Calculator\Sea Cruiser Cinema Calculator\obj\Debug\Sea Cruiser Cinema Calculator.pdb

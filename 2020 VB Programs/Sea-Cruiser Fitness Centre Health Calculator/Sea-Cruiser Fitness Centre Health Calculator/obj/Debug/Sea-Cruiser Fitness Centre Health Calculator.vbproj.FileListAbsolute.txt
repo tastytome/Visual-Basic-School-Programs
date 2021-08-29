@@ -1,0 +1,12 @@
+D:\Grade 10\Applied Computing\Visual Basic\Programs\Sea-Cruiser Fitness Centre Health Calculator\Sea-Cruiser Fitness Centre Health Calculator\bin\Debug\Sea-Cruiser Fitness Centre Health Calculator.exe.config
+D:\Grade 10\Applied Computing\Visual Basic\Programs\Sea-Cruiser Fitness Centre Health Calculator\Sea-Cruiser Fitness Centre Health Calculator\bin\Debug\Sea-Cruiser Fitness Centre Health Calculator.exe
+D:\Grade 10\Applied Computing\Visual Basic\Programs\Sea-Cruiser Fitness Centre Health Calculator\Sea-Cruiser Fitness Centre Health Calculator\bin\Debug\Sea-Cruiser Fitness Centre Health Calculator.pdb
+D:\Grade 10\Applied Computing\Visual Basic\Programs\Sea-Cruiser Fitness Centre Health Calculator\Sea-Cruiser Fitness Centre Health Calculator\bin\Debug\Sea-Cruiser Fitness Centre Health Calculator.xml
+D:\Grade 10\Applied Computing\Visual Basic\Programs\Sea-Cruiser Fitness Centre Health Calculator\Sea-Cruiser Fitness Centre Health Calculator\obj\Debug\Sea-Cruiser Fitness Centre Health Calculator.vbprojAssemblyReference.cache
+D:\Grade 10\Applied Computing\Visual Basic\Programs\Sea-Cruiser Fitness Centre Health Calculator\Sea-Cruiser Fitness Centre Health Calculator\obj\Debug\Sea_Cruiser_Fitness_Centre_Health_Calculator.Form1.resources
+D:\Grade 10\Applied Computing\Visual Basic\Programs\Sea-Cruiser Fitness Centre Health Calculator\Sea-Cruiser Fitness Centre Health Calculator\obj\Debug\Sea_Cruiser_Fitness_Centre_Health_Calculator.Resources.resources
+D:\Grade 10\Applied Computing\Visual Basic\Programs\Sea-Cruiser Fitness Centre Health Calculator\Sea-Cruiser Fitness Centre Health Calculator\obj\Debug\Sea-Cruiser Fitness Centre Health Calculator.vbproj.GenerateResource.cache
+D:\Grade 10\Applied Computing\Visual Basic\Programs\Sea-Cruiser Fitness Centre Health Calculator\Sea-Cruiser Fitness Centre Health Calculator\obj\Debug\Sea-Cruiser Fitness Centre Health Calculator.vbproj.CoreCompileInputs.cache
+D:\Grade 10\Applied Computing\Visual Basic\Programs\Sea-Cruiser Fitness Centre Health Calculator\Sea-Cruiser Fitness Centre Health Calculator\obj\Debug\Sea-Cruiser Fitness Centre Health Calculator.exe
+D:\Grade 10\Applied Computing\Visual Basic\Programs\Sea-Cruiser Fitness Centre Health Calculator\Sea-Cruiser Fitness Centre Health Calculator\obj\Debug\Sea-Cruiser Fitness Centre Health Calculator.xml
+D:\Grade 10\Applied Computing\Visual Basic\Programs\Sea-Cruiser Fitness Centre Health Calculator\Sea-Cruiser Fitness Centre Health Calculator\obj\Debug\Sea-Cruiser Fitness Centre Health Calculator.pdb

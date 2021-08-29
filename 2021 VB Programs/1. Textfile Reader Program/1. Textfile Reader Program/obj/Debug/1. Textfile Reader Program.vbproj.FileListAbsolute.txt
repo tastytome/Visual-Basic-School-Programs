@@ -1,0 +1,12 @@
+D:\Grade 11\Software Development\Programs\1. Textfile Reader Program\1. Textfile Reader Program\bin\Debug\_1.Textfile_Reader_Program.exe.config
+D:\Grade 11\Software Development\Programs\1. Textfile Reader Program\1. Textfile Reader Program\bin\Debug\_1.Textfile_Reader_Program.exe
+D:\Grade 11\Software Development\Programs\1. Textfile Reader Program\1. Textfile Reader Program\bin\Debug\_1.Textfile_Reader_Program.pdb
+D:\Grade 11\Software Development\Programs\1. Textfile Reader Program\1. Textfile Reader Program\bin\Debug\_1.Textfile_Reader_Program.xml
+D:\Grade 11\Software Development\Programs\1. Textfile Reader Program\1. Textfile Reader Program\obj\Debug\1. Textfile Reader Program.vbprojAssemblyReference.cache
+D:\Grade 11\Software Development\Programs\1. Textfile Reader Program\1. Textfile Reader Program\obj\Debug\_1.Textfile_Reader_Program.Form1.resources
+D:\Grade 11\Software Development\Programs\1. Textfile Reader Program\1. Textfile Reader Program\obj\Debug\_1.Textfile_Reader_Program.Resources.resources
+D:\Grade 11\Software Development\Programs\1. Textfile Reader Program\1. Textfile Reader Program\obj\Debug\1. Textfile Reader Program.vbproj.GenerateResource.cache
+D:\Grade 11\Software Development\Programs\1. Textfile Reader Program\1. Textfile Reader Program\obj\Debug\1. Textfile Reader Program.vbproj.CoreCompileInputs.cache
+D:\Grade 11\Software Development\Programs\1. Textfile Reader Program\1. Textfile Reader Program\obj\Debug\_1.Textfile_Reader_Program.exe
+D:\Grade 11\Software Development\Programs\1. Textfile Reader Program\1. Textfile Reader Program\obj\Debug\_1.Textfile_Reader_Program.xml
+D:\Grade 11\Software Development\Programs\1. Textfile Reader Program\1. Textfile Reader Program\obj\Debug\_1.Textfile_Reader_Program.pdb

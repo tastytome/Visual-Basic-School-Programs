@@ -1,0 +1,46 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+TKR Industries Stock Checker
+</name>
+</assembly>
+<members>
+<member name="T:TKR_Industries_Stock_Checker.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:TKR_Industries_Stock_Checker.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:TKR_Industries_Stock_Checker.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:TKR_Industries_Stock_Checker.My.Resources.Resources.stock">
+<summary>
+  Looks up a localized string similar to IPhone X  - 899.99 - 10
+Surface Pro 4 - 315.49 - 13
+Apple Watch Series 1 - 150.99 - 14
+Airpods -125.99 - 20
+Leather Couch - 250.49 - 15
+Plastic Chair - 50.55 - 18
+DIY Bed - 265.43 - 10
+Small Desk - 100.54 - 10
+Pencil Case - 15.01 - 20
+Eraser - 1.99 - 25
+Art Kit - 30.25 - 5
+Pen Set - 5.99 - 15
+Large Banana - 3.99 - 15
+Red Apple - 2 - 4.99 - 20
+Ramen Noodles - 4.99 - 10
+Steamed Dumpings - 6.99 - 13.
+</summary>
+</member>
+</members>
+</doc>

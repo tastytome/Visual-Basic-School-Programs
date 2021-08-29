@@ -1,0 +1,12 @@
+D:\Grade 10\Applied Computing\Visual Basic\Programs\Sea Cruiser Fare Calculator\Sea Cruiser Fare Calculator\bin\Debug\Sea Cruiser Fare Calculator.exe.config
+D:\Grade 10\Applied Computing\Visual Basic\Programs\Sea Cruiser Fare Calculator\Sea Cruiser Fare Calculator\bin\Debug\Sea Cruiser Fare Calculator.exe
+D:\Grade 10\Applied Computing\Visual Basic\Programs\Sea Cruiser Fare Calculator\Sea Cruiser Fare Calculator\bin\Debug\Sea Cruiser Fare Calculator.pdb
+D:\Grade 10\Applied Computing\Visual Basic\Programs\Sea Cruiser Fare Calculator\Sea Cruiser Fare Calculator\bin\Debug\Sea Cruiser Fare Calculator.xml
+D:\Grade 10\Applied Computing\Visual Basic\Programs\Sea Cruiser Fare Calculator\Sea Cruiser Fare Calculator\obj\Debug\Sea Cruiser Fare Calculator.vbprojAssemblyReference.cache
+D:\Grade 10\Applied Computing\Visual Basic\Programs\Sea Cruiser Fare Calculator\Sea Cruiser Fare Calculator\obj\Debug\Sea_Cruiser_Fare_Calculator.Form1.resources
+D:\Grade 10\Applied Computing\Visual Basic\Programs\Sea Cruiser Fare Calculator\Sea Cruiser Fare Calculator\obj\Debug\Sea_Cruiser_Fare_Calculator.Resources.resources
+D:\Grade 10\Applied Computing\Visual Basic\Programs\Sea Cruiser Fare Calculator\Sea Cruiser Fare Calculator\obj\Debug\Sea Cruiser Fare Calculator.vbproj.GenerateResource.cache
+D:\Grade 10\Applied Computing\Visual Basic\Programs\Sea Cruiser Fare Calculator\Sea Cruiser Fare Calculator\obj\Debug\Sea Cruiser Fare Calculator.vbproj.CoreCompileInputs.cache
+D:\Grade 10\Applied Computing\Visual Basic\Programs\Sea Cruiser Fare Calculator\Sea Cruiser Fare Calculator\obj\Debug\Sea Cruiser Fare Calculator.exe
+D:\Grade 10\Applied Computing\Visual Basic\Programs\Sea Cruiser Fare Calculator\Sea Cruiser Fare Calculator\obj\Debug\Sea Cruiser Fare Calculator.xml
+D:\Grade 10\Applied Computing\Visual Basic\Programs\Sea Cruiser Fare Calculator\Sea Cruiser Fare Calculator\obj\Debug\Sea Cruiser Fare Calculator.pdb

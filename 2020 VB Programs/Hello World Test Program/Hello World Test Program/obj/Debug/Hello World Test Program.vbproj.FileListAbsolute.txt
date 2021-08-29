@@ -1,0 +1,12 @@
+C:\Users\thoma\source\repos\Hello World Test Program\Hello World Test Program\bin\Debug\Hello World Test Program.exe.config
+C:\Users\thoma\source\repos\Hello World Test Program\Hello World Test Program\bin\Debug\Hello World Test Program.exe
+C:\Users\thoma\source\repos\Hello World Test Program\Hello World Test Program\bin\Debug\Hello World Test Program.pdb
+C:\Users\thoma\source\repos\Hello World Test Program\Hello World Test Program\bin\Debug\Hello World Test Program.xml
+C:\Users\thoma\source\repos\Hello World Test Program\Hello World Test Program\obj\Debug\Hello World Test Program.vbprojAssemblyReference.cache
+C:\Users\thoma\source\repos\Hello World Test Program\Hello World Test Program\obj\Debug\Hello_World_Test_Program.Form1.resources
+C:\Users\thoma\source\repos\Hello World Test Program\Hello World Test Program\obj\Debug\Hello_World_Test_Program.Resources.resources
+C:\Users\thoma\source\repos\Hello World Test Program\Hello World Test Program\obj\Debug\Hello World Test Program.vbproj.GenerateResource.cache
+C:\Users\thoma\source\repos\Hello World Test Program\Hello World Test Program\obj\Debug\Hello World Test Program.vbproj.CoreCompileInputs.cache
+C:\Users\thoma\source\repos\Hello World Test Program\Hello World Test Program\obj\Debug\Hello World Test Program.exe
+C:\Users\thoma\source\repos\Hello World Test Program\Hello World Test Program\obj\Debug\Hello World Test Program.xml
+C:\Users\thoma\source\repos\Hello World Test Program\Hello World Test Program\obj\Debug\Hello World Test Program.pdb
