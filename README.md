@@ -1,4 +1,3 @@
 # Visual-Basic-School-Programs
-Most of my projects using VB.Net from 2020-2021! 
 
-These are just for personal reference, in case I lose them :)
+These are most of the minor programs I wrote during VCE Software Development from 2021 - 2022, for personal reference.
